@@ -1,0 +1,31 @@
+div {
+	color: white;
+	border: 1px solid grey;
+	overflow: auto;
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+
+.container {
+	overflow: hidden;
+}
+
+.box1 {
+	height: 100px;
+	width: 100px;
+	background: blue;
+}
+
+.box2 {
+	height: 100px;
+	width: 100px;
+	background: red;
+	float: right;
+}
+
+.box3 {
+	height: 100px;
+	width: 100%;
+	background: turquoise;
+}

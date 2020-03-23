@@ -1,0 +1,33 @@
+div {
+	color: white;
+	border: 1px solid black;
+	justify-content: center;
+}
+
+.container {
+	border: 1px solid black;
+	height: 100%;
+	width: 100%;
+}
+
+.box1 {
+	height: 100px;
+	width: 100px;
+	background: blue;
+	vertical-align: top;
+	float: right;
+}
+
+.box2 {
+	height: 100px;
+	width: 100px;
+	background: red;
+	float: right;
+}
+
+.box3 {
+	height: 100px;
+	width: 100px;
+	background: turquoise;
+	float: right;
+}
